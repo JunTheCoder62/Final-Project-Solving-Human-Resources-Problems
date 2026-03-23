@@ -17,7 +17,7 @@ Jaya Jaya Maju merupakan salah satu perusahaan multinasional yang telah berdiri 
 
 ### Persiapan
 
-Sumber data: [Jaya Jaya Maju](https://lookerstudio.google.com/reporting/0cfbe2da-1f8b-41cd-b79e-67ec3e9bbd85)
+Sumber data: [Jaya Jaya Maju](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee)
 
 ### Setup environment:
 
