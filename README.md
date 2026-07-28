@@ -1,4 +1,4 @@
-# Proyek Pertama: Menyelesaikan Permasalahan Perusahaan Edutech
+# Proyek Pertama: Solving Human Resources Problems
 
 ## Business Understanding
 
