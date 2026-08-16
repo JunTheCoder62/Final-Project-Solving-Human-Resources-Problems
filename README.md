@@ -38,7 +38,8 @@ Prediction Model dengan Google Colab:
 
 Link: [LookerStudio](https://lookerstudio.google.com/reporting/0cfbe2da-1f8b-41cd-b79e-67ec3e9bbd85)
 
-![Screenshot 2026-03-23 093759](https://github.com/user-attachments/assets/010b0873-7925-4cc0-b523-b35166bb5612)
+<img width="1150" height="858" alt="image" src="https://github.com/user-attachments/assets/00709212-f807-4b7f-aa4e-958e7daf10d7" />
+
 
 Business Dashboard ini memberikan gambaran mengenai kondisi sumber daya manusia persuahaan Jaya Jaya Maju, yang saat ini memiliki total 1.470 karyawan dengan tingkat attrition 12,2%. Dapat dilihat bahwa rata - rata kepuasan kerja (job satisfaction) berada di angka 2.7 dari 4.0 sebuah skor menengah. sementara rata-rata upah per jam tercatat sebesar 88. Secara demografi, tenaga kerja didominasi oleh laki-laki sebesar 59,8% berbanding perempuan 40,2%, dengan mayoritas karyawan merupakan profesional muda yang berada di rentang usia 27 hingga 38 tahun. Tetapi ada 28% status karyawan yang "Tidak Diketahui" pada grafik attrition, yang menandakan sebagian data perlu diperbarui dan pembersihan agar lebih akurat.
 
